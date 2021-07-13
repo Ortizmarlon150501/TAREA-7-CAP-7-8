@@ -395,6 +395,13 @@ d. Determine el voltaje en R5.
 
 # Conclusiones
 
+•	En el trabajo se muestra los resultados de la recopilación bibliográfica realizada sobre los métodos generales de solución y teoremas aplicados en la solución de circuitos lineales.
+
+•	Contiene los métodos generales tradicionales y no tradicionales aplicados en la solución de circuitos eléctricos 
+
+•	Se muestran los circuitos, en los cuales, la aplicación del Teorema de Thevenin y Norton surgen las llamadas conexiones absurdas que imposibilitan la aplicación del teorema.
+
+•	Como elemento novedoso se prueba la aplicación del Principio de la Superposición en circuitos con fuentes dependientes considerándola como independiente.
 
 
 
