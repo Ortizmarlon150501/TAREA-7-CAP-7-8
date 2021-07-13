@@ -6,11 +6,13 @@ Establecer las normas para analizar circuitos con múltiples excitaciones o con 
 
 Objetivos específicos
 
-• Entender los conceptos básicos sobre los sistemas de unidades, notaciones, prefijos, diagramas, etc., para lograr llegar a tener una base sobre los circuitos eléctricos y como relacionan estos conceptos entre sí.
+• Determinar la potencia máxima de la fuente.
 
-• Analizar la parte teórica de los dos conceptos fundamentales de los circuitos que es el voltaje y la corriente y su aplicabilidad de esta parte teórica en ejercicios y así entender de mejor manera estos conceptos que no serviran a futuro.
+• Verificar el comportamiento de la corriente en los nodos de un circuito
 
-Marco Teorico
+• Corroborar experimentalmente las sumas de potencial dentro de una
+
+# Marco Teorico
 Capitulo 7
 ![image](https://user-images.githubusercontent.com/84412132/125380161-5ef97a00-e357-11eb-89eb-cb0f9032d0e2.png)
 
