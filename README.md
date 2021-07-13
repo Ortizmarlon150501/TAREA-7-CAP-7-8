@@ -11,6 +11,8 @@ Objetivos específicos
 • Analizar la parte teórica de los dos conceptos fundamentales de los circuitos que es el voltaje y la corriente y su aplicabilidad de esta parte teórica en ejercicios y así entender de mejor manera estos conceptos que no serviran a futuro.
 
 Marco Teorico
+Capitulo 7
+![image](https://user-images.githubusercontent.com/84412132/125380161-5ef97a00-e357-11eb-89eb-cb0f9032d0e2.png)
 
 
 Explicacion y resolucion de ejercicios o problemas
