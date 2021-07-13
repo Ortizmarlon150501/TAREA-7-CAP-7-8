@@ -7,7 +7,9 @@ Determinar el comportamiento de la corriente ,el voltaje y  la potencia de vario
 Objetivos específicos
 
 • Determinar la potencia máxima de la fuente.
+
 • Verificar el comportamiento de la corriente en los nodos de un circuito
+
 • Corroborar experimentalmente las sumas de potencial dentro de una.
 
 
