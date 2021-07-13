@@ -196,9 +196,8 @@ a.) Convierta la fuente de corriente y el resistor de 330 Ω en su fuente de vo
 
 21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2
 
-![image](https://user-images.githubusercontent.com/84587118/125395864-5a41bf80-e371-11eb-9572-c3eac4ed4aa1.png)
+![image](https://user-images.githubusercontent.com/84587118/125396050-97a64d00-e371-11eb-9c53-d275f0faf028.png)
 
-![image](https://user-images.githubusercontent.com/84587118/125395872-5e6ddd00-e371-11eb-8ae9-98dab15eb69c.png)
 
 
 
