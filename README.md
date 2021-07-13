@@ -114,6 +114,7 @@ b.	Si R2 se ajusta para tener 1.5kohm ¿Cuál será el voltaje VL? Si se remueve
 
 
 7-5 Efectos de carga de los instrumentos
+
 35. Un voltímetro con una sensibilidad de S _20 k_/V se usa en la escala de
 10 V (con una resistencia interna total de 200 k_) para medir el voltaje en el
 resistor de 750 k_ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
@@ -124,6 +125,14 @@ quite del circuito?
 c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
 d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200
 k_. cuál será la lectura?
+
+![image](https://user-images.githubusercontent.com/84587118/125491207-f5a0ba7e-8cad-4025-9a79-67056fbd4282.png)
+
+![image](https://user-images.githubusercontent.com/84587118/125491244-cdb30283-f247-471b-ada5-9f3cc61af155.png)
+
+
+
+
 37. Un amperímetro se usa para medir la corriente en el circuito que se muestra
 en la figura 7-76.
 a. Explique cómo conectar de manera correcta el amperímetro para medir la
@@ -132,6 +141,10 @@ b. Determine los valores indicados cuando el amperímetro se usa para medir
 cada una de las corrientes que se indican en el circuito.
 c. Calcule el efecto de carga en el medidor cuando se mide cada una de las
 corrientes.
+
+
+![image](https://user-images.githubusercontent.com/84587118/125491058-c6542982-aa4e-4b07-8499-49fcb9fc587d.png)
+
 
 39. Utilice Multisim para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
 
