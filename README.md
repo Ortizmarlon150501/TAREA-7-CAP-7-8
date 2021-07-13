@@ -287,9 +287,12 @@ c. Determine el voltaje Vab.
 
 35.-Repita el problema 33 para el circuito de la figura 8-90.
 
+
 ![image](https://user-images.githubusercontent.com/84585835/125458271-411e2940-edcb-4cf3-a14d-5abc5b91e982.png)
 
+
 ![image](https://user-images.githubusercontent.com/84585835/125490104-ae33255d-f64c-486e-a99d-b56c603906cc.png)
+
 
 ![image](https://user-images.githubusercontent.com/84585835/125490129-67333ccc-12bc-4f08-97a5-893f94857de0.png)
 
@@ -297,11 +300,14 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84585835/125458335-1ec00841-b4e3-4787-bf2d-191263954c02.png)
 
+
 ![image](https://user-images.githubusercontent.com/84585835/125490182-f206e7c1-452e-4229-8d70-fdbaaec76d25.png)
+
 
 39.-Convierta cada una de las redes      de la figura 8-92 en su configuración Y equivalente.
 
 ![image](https://user-images.githubusercontent.com/84585835/125458395-6cff9dfd-b340-4e9c-b22b-ad1a8d5962e8.png)
+
 
 a)
 
