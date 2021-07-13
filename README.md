@@ -14,19 +14,22 @@ Marco Teorico
 Capitulo 7
 ![image](https://user-images.githubusercontent.com/84412132/125380161-5ef97a00-e357-11eb-89eb-cb0f9032d0e2.png)
 
+Capitulo 8
+
+![image](https://user-images.githubusercontent.com/84587118/125382485-5b67f200-e35b-11eb-8980-f5ecd09652ce.png)
+
 
 Explicacion y resolucion de ejercicios o problemas
 
 
 VIDEO
-https://youtu.be/ufbyRHpvj4U
+
 
 Conclusiones
-• Al realizar los ejercicios propuestos aplicando los distintos conceptos analizados en la teoría, nos damos cuenta que es importante leer bien y comprender la teoría por así se la puede aplicar de manera correcta.
 
-• Al realizar los ejercicios propuestos aplicando los distintos conceptos analizados en la teoría, nos damos cuenta que es importante leer bien y comprender la teoría por así se la puede aplicar de manera correcta.
 
-• Acerca de la corriente eléctrica, su función e importancia dentro del mundo digital de la actualidad. También como manejarla y medirla mediante la lectura y la resolución de ejercicios los cuales contribuirán a un aprendizaje a corto y largo plazo
+
+
 
 Bibliografia
-Robbins, Allan H. Willhelm c. Molinero. nd Análisis de Circuitos Teoria y Practica. Editado por CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view .
+
