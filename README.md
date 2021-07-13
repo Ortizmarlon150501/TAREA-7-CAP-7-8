@@ -1,5 +1,5 @@
 # TAREA-7-CAP-7-8
-Objetivo
+# Objetivo
 Objetivo general:
 
 Comprender los fundamentos básicos de los circuitos eléctricos los cuales se puede tomar en cuenta como el voltaje, la resistencia, intensida, mediciones, fuentes, etc., así poder lograr continuar con el estudio de esta materia.
@@ -19,7 +19,7 @@ Capitulo 8
 ![image](https://user-images.githubusercontent.com/84587118/125382485-5b67f200-e35b-11eb-8980-f5ecd09652ce.png)
 
 
-Explicacion y resolucion de ejercicios o problemas
+# Explicacion y resolucion de ejercicios o problemas
 
 #Capitulo 7
 1. Para las redes de la figura 7-46, determine cuales resistores y ramas están en serie y cuales en paralelo. Escriba una expresión para la resistencia total, R_T .
@@ -271,7 +271,7 @@ c. Determine el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/84585835/125458395-6cff9dfd-b340-4e9c-b22b-ad1a8d5962e8.png)
 
-41.-Concierta cada una de las rede Y de la figura 8-94 en su configuración      equivalente.
+41.-Convierta cada una de las rede Y de la figura 8-94 en su configuración      equivalente.
 
 ![image](https://user-images.githubusercontent.com/84585835/125458471-d98e6c4c-1769-4c15-8446-cebca58f0cb1.png)
 
@@ -310,14 +310,15 @@ d. Determine el voltaje en R5.
 
 
 
-VIDEO
+# VIDEO
 
 
-Conclusiones
+# Conclusiones
 
 
 
 
 
-Bibliografia
+# Bibliografia
 
+Robbins, Allan H. Willhelm c. Miller. n.d. Analisis de Circuitos Teoria y Practica. Edited by CENGAGE Learning. Cuarta Edi. https://drive.google.com/file/d/1xLy0QqUmSOByE8CDn-6dgCHs8NJL-juA/view.
