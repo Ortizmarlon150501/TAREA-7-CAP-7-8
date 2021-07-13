@@ -112,6 +112,7 @@ b.	Si R2 se ajusta para tener 1.5kohm ¿Cuál será el voltaje VL? Si se remueve
 
 
 7-5 Efectos de carga de los instrumentos
+
 35. Un voltímetro con una sensibilidad de S _20 k_/V se usa en la escala de
 10 V (con una resistencia interna total de 200 k_) para medir el voltaje en el
 resistor de 750 k_ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
