@@ -100,6 +100,7 @@ b.	Si R2 se ajusta para tener 1.5kohm ¿Cuál será el voltaje VL? Si se remueve
 
 
 7-6 Análisis de circuitos por computadora
+
 33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL_
 0 _, 250 _ y 500 _.
 
