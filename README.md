@@ -264,8 +264,11 @@ c. Determine el voltaje Vab.
 31.-Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
 
 ![image](https://user-images.githubusercontent.com/84585835/125458124-6ea4877b-51d2-414c-b586-c720ef237659.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125482423-e9c027fd-93b2-4fae-868d-2e7f8cf2ef1f.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125482773-fcfd58ff-ebe4-4d74-8be8-36f6fdce0f9f.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125482800-a9b03981-1162-48f4-8b69-215beb8f3236.png)
 
 33.-Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.
@@ -295,14 +298,24 @@ c. Determine el voltaje Vab.
 45.-Repita el problema 43 para el circuito de la figura 8-98.
 
 ![image](https://user-images.githubusercontent.com/84585835/125458620-c68bae58-999b-4b94-bf3b-e4efdebb2344.png)
+
+
 ![image](https://user-images.githubusercontent.com/84585835/125482969-901c5ff5-e8eb-4b59-a30d-600cb2812721.png)
+
+
 ![image](https://user-images.githubusercontent.com/84585835/125483751-4bb37529-493a-43ab-9eb6-edf1c605d819.png)
+
+
 ![image](https://user-images.githubusercontent.com/84585835/125483820-5769f6a8-19bb-4c25-aab3-5adf5460633d.png)
+
+
 ![image](https://user-images.githubusercontent.com/84585835/125483864-b249b4fa-f35b-4d68-a6d8-4447118fed57.png)
+
 
 47.-Vea el circuito puente de la figura 8-100:
 
 ![image](https://user-images.githubusercontent.com/84585835/125458672-dd729c3b-fa47-4190-bc65-7db0f9070872.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125483926-1448f3b2-16f5-4deb-ac56-bdfc459478a8.png)
 
 a. ¿El puede esta balanceado? Explique.
@@ -310,8 +323,11 @@ a. ¿El puede esta balanceado? Explique.
 ![image](https://user-images.githubusercontent.com/84585835/125483970-ff1e27f1-2bdb-4c39-8c3d-9980b4510d18.png)
 
 b. Escriba las ecuaciones de malla.
+
 ![image](https://user-images.githubusercontent.com/84585835/125484044-dcd32455-0777-4129-980f-40d075491dff.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125484128-2bbcc316-2d48-4dc1-a7f9-0fdc386e9d91.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125484209-08f422b0-1fc9-48e7-9e40-eba09889e7ba.png)
 
 c. Calcule la corriente a través de R5.
