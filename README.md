@@ -203,7 +203,9 @@ a.) Convierta la fuente de corriente y el resistor de 330 Ω en su fuente de vo
 ![image](https://user-images.githubusercontent.com/84585835/125457581-bfda3740-d323-4e0d-82ee-c6249053d265.png)
 
 a. Escriba las ecuaciones de corriente de rama.
+
 b. Encuentre la corriente I2.
+
 c. Determine el voltaje Vab.
 
 25.-Escriba las ecuaciones de mall para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
@@ -255,8 +257,11 @@ c. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/84585835/125458672-dd729c3b-fa47-4190-bc65-7db0f9070872.png)
 
 a. ¿El puede esta balanceado? Explique.
+
 b. Escriba las ecuaciones de malla.
+
 c. Calcule la corriente a través de R5.
+
 d. Determine el voltaje en R5.
 
 49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
