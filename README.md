@@ -320,6 +320,7 @@ a)
 b)
 
 ![image](https://user-images.githubusercontent.com/84585835/125490566-63a86685-fec5-4ec7-b4d0-1571c7af6a51.png)
+
 ![image](https://user-images.githubusercontent.com/84585835/125490625-fadf1408-13fd-4117-a152-27d0fe2a45b6.png)
 
 43.-Ultilice las conversiones     -Y o Y-    , para encontrar la corriente I y el voltaje Vab para el circuito de la figura 8-96.
