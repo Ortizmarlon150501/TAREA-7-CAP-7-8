@@ -208,7 +208,7 @@ b. Encuentre la corriente I2.
 
 c. Determine el voltaje Vab.
 
-25.-Escriba las ecuaciones de mall para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
+25.-Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
 
 ![image](https://user-images.githubusercontent.com/84585835/125457884-456d5b38-cbbf-4c0d-9410-88554a158776.png)
 
