@@ -122,6 +122,12 @@ quite del circuito?
 c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
 d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200
 k_. cuál será la lectura?
+
+![image](https://user-images.githubusercontent.com/84587118/125493651-fae86cd5-071f-4da9-b5d6-53c9237f7475.png)
+
+![image](https://user-images.githubusercontent.com/84587118/125493679-cb8a6000-0c0f-4b35-8bed-7bccd26d5a78.png)
+
+
 37. Un amperímetro se usa para medir la corriente en el circuito que se muestra
 en la figura 7-76.
 a. Explique cómo conectar de manera correcta el amperímetro para medir la
@@ -130,6 +136,9 @@ b. Determine los valores indicados cuando el amperímetro se usa para medir
 cada una de las corrientes que se indican en el circuito.
 c. Calcule el efecto de carga en el medidor cuando se mide cada una de las
 corrientes.
+
+![image](https://user-images.githubusercontent.com/84587118/125493711-3de9a66f-8df2-4999-a4b5-41e73f48bc83.png)
+
 
 39. Utilice Multisim para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
 
