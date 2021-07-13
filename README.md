@@ -2,7 +2,7 @@
 # Objetivo
 Objetivo general:
 
-Comprender los fundamentos básicos de los circuitos eléctricos los cuales se puede tomar en cuenta como el voltaje, la resistencia, intensida, mediciones, fuentes, etc., así poder lograr continuar con el estudio de esta materia.
+Establecer las normas para analizar circuitos con múltiples excitaciones o con una excitación cualquiera, obtener modelos simplificados de circuitos complejos con el fin de abordar la interconexión de redes circuitales e introducir conceptos asociados a la transmisión de corriente, potencia y voltaje en una cadena de dispositivos.
 
 Objetivos específicos
 
