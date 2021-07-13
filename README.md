@@ -100,7 +100,35 @@ b.	Si R2 se ajusta para tener 1.5kohm ¿Cuál será el voltaje VL? Si se remueve
 
 
 7-6 Análisis de circuitos por computadora
-39. Use Multisim para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
+33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL_
+0 _, 250 _ y 500 _.
+
+![image](https://user-images.githubusercontent.com/84587118/125468391-cebfb0de-ccaf-456c-9a9e-5f2820d29659.png)
+
+![image](https://user-images.githubusercontent.com/84587118/125468522-d438edc5-7e6b-4141-8798-ad94e394d942.png)
+
+
+7-5 Efectos de carga de los instrumentos
+35. Un voltímetro con una sensibilidad de S _20 k_/V se usa en la escala de
+10 V (con una resistencia interna total de 200 k_) para medir el voltaje en el
+resistor de 750 k_ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
+
+a. Determine el valor de la fuente de voltaje E.
+b. Que voltaje se presentara en el resistor de 750 k_ cuando el voltímetro se
+quite del circuito?
+c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200
+k_. cuál será la lectura?
+37. Un amperímetro se usa para medir la corriente en el circuito que se muestra
+en la figura 7-76.
+a. Explique cómo conectar de manera correcta el amperímetro para medir la
+corriente I1.
+b. Determine los valores indicados cuando el amperímetro se usa para medir
+cada una de las corrientes que se indican en el circuito.
+c. Calcule el efecto de carga en el medidor cuando se mide cada una de las
+corrientes.
+
+39. Utilice Multisim para encontrar V2, V4, IT, I1 e I2 en el circuito de la figura 7-10.
 
 ![image](https://user-images.githubusercontent.com/84587118/125394747-c6bbbf00-e36f-11eb-9e1f-48f8a24edb47.png)
 
@@ -169,6 +197,8 @@ a.) Encuentre la corriente a través del resistor de carga con la regla del divi
 b). Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga
 
 ![image](https://user-images.githubusercontent.com/84587118/125395604-06cf7180-e371-11eb-9c0b-1da1b6ffdde0.png)
+
+![image](https://user-images.githubusercontent.com/84587118/125468199-bc70a872-cad6-4b6e-b47b-7a8c291c8a80.png)
 
 
 13. Vea el circuito de la figura 8-74: 
