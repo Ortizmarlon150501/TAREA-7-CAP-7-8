@@ -367,6 +367,7 @@ c. Calcule la corriente a través de R5.
 ![image](https://user-images.githubusercontent.com/84585835/125491204-be47ae28-9378-47d2-a481-efcc9b5fb4a1.png)
 
 d. Determine el voltaje en R5.
+
 ![image](https://user-images.githubusercontent.com/84585835/125491243-6d180886-3748-4d7b-9892-7b5e148a70b2.png)
 
 
