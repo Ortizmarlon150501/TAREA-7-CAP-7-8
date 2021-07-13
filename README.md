@@ -198,6 +198,74 @@ a.) Convierta la fuente de corriente y el resistor de 330 Ω en su fuente de vo
 
 ![image](https://user-images.githubusercontent.com/84587118/125396050-97a64d00-e371-11eb-9c53-d275f0faf028.png)
 
+23.-Vea el circuito de la figura 8-83:
+
+![image](https://user-images.githubusercontent.com/84585835/125457581-bfda3740-d323-4e0d-82ee-c6249053d265.png)
+
+a. Escriba las ecuaciones de corriente de rama.
+b. Encuentre la corriente I2.
+c. Determine el voltaje Vab.
+
+25.-Escriba las ecuaciones de mall para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.
+
+![image](https://user-images.githubusercontent.com/84585835/125457884-456d5b38-cbbf-4c0d-9410-88554a158776.png)
+
+27.-Ultilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/84585835/125457943-9467acdd-460b-42ff-939a-58e4cd6f159b.png)
+
+29.-Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.
+
+![image](https://user-images.githubusercontent.com/84585835/125458036-46be419a-ae71-48b4-918f-2efed84541b1.png)
+
+31.-Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.
+
+![image](https://user-images.githubusercontent.com/84585835/125458124-6ea4877b-51d2-414c-b586-c720ef237659.png)
+
+33.-Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.
+
+![image](https://user-images.githubusercontent.com/84585835/125458189-786deadd-fcfa-4367-86c7-638bc429cd93.png)
+
+35.-Repita el problema 33 para el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/84585835/125458271-411e2940-edcb-4cf3-a14d-5abc5b91e982.png)
+
+37.-Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.
+
+![image](https://user-images.githubusercontent.com/84585835/125458335-1ec00841-b4e3-4787-bf2d-191263954c02.png)
+
+39.-Convierta cada una de las redes      de la figura 8-92 en su configuración Y equivalente.
+
+![image](https://user-images.githubusercontent.com/84585835/125458395-6cff9dfd-b340-4e9c-b22b-ad1a8d5962e8.png)
+
+41.-Concierta cada una de las rede Y de la figura 8-94 en su configuración      equivalente.
+
+![image](https://user-images.githubusercontent.com/84585835/125458471-d98e6c4c-1769-4c15-8446-cebca58f0cb1.png)
+
+43.-Ultilice las conversiones     -Y o Y-    , para encontrar la corriente I y el voltaje Vab para el circuito de la figura 8-96.
+
+![image](https://user-images.githubusercontent.com/84585835/125458557-821d6923-d503-486f-962a-e334321ec5ea.png)
+
+45.-Repita el problema 43 para el circuito de la figura 8-98.
+
+![image](https://user-images.githubusercontent.com/84585835/125458620-c68bae58-999b-4b94-bf3b-e4efdebb2344.png)
+
+47.-Vea el circuito puente de la figura 8-100:
+
+![image](https://user-images.githubusercontent.com/84585835/125458672-dd729c3b-fa47-4190-bc65-7db0f9070872.png)
+
+a. ¿El puede esta balanceado? Explique.
+b. Escriba las ecuaciones de malla.
+c. Calcule la corriente a través de R5.
+d. Determine el voltaje en R5.
+
+49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.
+
+![image](https://user-images.githubusercontent.com/84585835/125458731-0b6223ae-c3dc-4153-a2ec-b0d46ce02735.png)
+
+51.-Ultilice Multisim para encontrar las corrientes a través de todos los resistores del circuito que se muestra en la figura 8-86.
+
+![image](https://user-images.githubusercontent.com/84585835/125458792-6a5d4cfb-d446-4b79-8650-c7094078561f.png)
 
 
 
