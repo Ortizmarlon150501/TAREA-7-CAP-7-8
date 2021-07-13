@@ -410,7 +410,7 @@ d. Determine el voltaje en R5.
 
 # VIDEO
 
-
+https://youtu.be/KmZR_MTzOEo
 # Conclusiones
 
 •	En el trabajo se muestra los resultados de la recopilación bibliográfica realizada sobre los métodos generales de solución y teoremas aplicados en la solución de circuitos lineales.
