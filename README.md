@@ -13,7 +13,8 @@ Objetivos específicos
 • Corroborar experimentalmente las sumas de potencial dentro de una.
 
 
-Marco Teorico
+#  Marco Teorico
+
 Capitulo 7
 ![image](https://user-images.githubusercontent.com/84412132/125380161-5ef97a00-e357-11eb-89eb-cb0f9032d0e2.png)
 
